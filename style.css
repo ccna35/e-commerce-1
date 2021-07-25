@@ -371,7 +371,7 @@ ul {
     left: 0;
     width: 100%;
     overflow: hidden;
-    transition: max-height 1s linear;
+    transition: max-height 0.5s;
   }
 
   nav ul li {
